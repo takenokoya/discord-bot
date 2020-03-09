@@ -46,7 +46,7 @@ spreadsheet_id = '1VHruuvXrQXxvfFxVpLi1mz050BJHHrLpe_itdWOlHys'#←スプシのI
 range = '持ちキャラ一覧!A2:O12'
 response = service.get_spreadsheet_values(spreadsheet_id, range)
 
-bot = Discordrb::Bot.new token: 'Njg2MjAxNDQ1NTI3MTkxNTgy.XmTxNw.H9XFSjcj6l9WgGKEXjQR8ugej5Q'
+bot = Discordrb::Bot.new token: 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
 puts "This bot's invite URL is #{bot.invite_url}."
 puts 'Click on it to invite it to your server.'
 

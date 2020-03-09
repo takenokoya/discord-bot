@@ -1,5 +1,5 @@
 require 'discordrb'
-bot = Discordrb::Bot.new token: 'Njg2MjAxNDQ1NTI3MTkxNTgy.XmTxNw.H9XFSjcj6l9WgGKEXjQR8ugej5Q'
+bot = Discordrb::Bot.new token: 'XXXXXXXXXXXXXXXX'
 puts "This bot's invite URL is #{bot.invite_url}."
 puts 'Click on it to invite it to your server.'
 

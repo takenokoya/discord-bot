@@ -13,7 +13,7 @@ require 'discordrb'
 # you, look here: https://github.com/discordrb/discordrb/wiki/Redirect-URIs-and-RPC-origins
 # After creating the bot, simply copy the token (*not* the OAuth2 secret) and put it into the
 # respective place.
-bot = Discordrb::Bot.new token: 'Njg2MjAxNDQ1NTI3MTkxNTgy.XmTxNw.H9XFSjcj6l9WgGKEXjQR8ugej5Q'
+bot = Discordrb::Bot.new token: 'XXXXXXXXXXXXXXXXXXXXXXX'
 
 # Here we output the invite URL to the console so the bot account can be invited to the channel. This only has to be
 # done once, afterwards, you can remove this part if you want
